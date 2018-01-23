@@ -1,0 +1,68 @@
+/*.container{
+  width: 1700px;
+}*/
+.spacer20{
+	height:20px;
+}
+.spacer30{
+	height:30px;
+}
+.marginLeft20{
+  margin-left: 20px;
+}
+#patInfo{
+  padding: 10px;
+}
+.spacer60{
+  height: 60px;
+}
+#downloadBtn{
+  border:none; 
+  padding: 7px;
+  border-radius: 5px;  
+}
+.Invalid_msg span{
+  color:red;
+  font-size: 17px;
+}
+.emailMsg{
+  font-size: 15px;
+}
+.modal-header{
+  background: #585655;
+}
+.close{
+  color: white;
+}
+.modal-title{
+  color: white;
+}
+ .panel-header{
+ background: #5D5B5B; 
+ color: white; 
+ padding: 15px; 
+ font-size: 17px; 
+ font-weight: bold;
+}
+.container{
+ padding: 20px;
+ width: 90%; 
+ border-radius:10px;
+}
+.panelContent{
+ font-size: 13px; 
+ text-align: center;
+}
+table thead tr th{
+ font-size: 17px;
+ text-align: center;
+}
+.cptTable {
+    width: 98%;
+    margin: 0 auto;
+}
+#patInfo{
+  border: 1px solid #E0E7EA;
+}
+
+
